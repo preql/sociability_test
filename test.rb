@@ -1,3 +1,5 @@
+# coding: utf-8
+
 class Test
   def initialize(questions_path)
     until File.exists?(questions_path)

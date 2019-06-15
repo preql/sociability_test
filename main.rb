@@ -1,3 +1,5 @@
+# coding: utf-8
+
 require_relative "result_printer"
 require_relative "test"
 

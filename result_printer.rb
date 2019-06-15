@@ -1,3 +1,5 @@
+# coding: utf-8
+
 class ResultPrinter
   def initialize(results_path)
     until File.exists?(results_path)
